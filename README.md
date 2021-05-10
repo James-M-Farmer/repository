@@ -1,3 +1,3 @@
-# Repository
+# pyna
 Learning to track my code.
-Python and Network Automation
+Python for Network Automation
